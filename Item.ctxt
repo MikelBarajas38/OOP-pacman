@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Item
+comment1.params=points
+comment1.target=Item(int)
+comment2.params=points\ soundFile
+comment2.target=Item(int,\ java.lang.String)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=int\ getPoints()
+comment5.params=soundEffect
+comment5.target=void\ setSoundEffect(greenfoot.GreenfootSound)
+comment6.params=
+comment6.target=void\ playSoundEffect()
+numComments=7

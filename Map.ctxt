@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Map
+comment1.params=world\ mapFile\ tileSize
+comment1.target=Map(greenfoot.World,\ java.lang.String,\ int)
+comment2.params=mapFile
+comment2.target=java.util.List\ readMapFromFile(java.lang.String)
+comment3.params=
+comment3.target=int\ getHeight()
+comment4.params=
+comment4.target=int\ getWidth()
+comment5.params=object
+comment5.target=greenfoot.Actor\ getMapObject(java.lang.String)
+numComments=6
